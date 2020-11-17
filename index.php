@@ -105,7 +105,7 @@ if( $file_handle = fopen( FILENAME,'r') ) {
     <p class="success_message"><?php echo $success_message; ?></p>
     <?php endif; ?> 
     
-    <!--投稿-->
+    <!--入力フォーム-->
 
 
     <form method="post">
