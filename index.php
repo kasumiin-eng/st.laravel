@@ -122,7 +122,9 @@ if( $file_handle = fopen( FILENAME,'r') ) {
 	        <input type="submit" name="btn_submit" value="投稿">
         </div>    
     </form>
-
+	
+　　 
+    <!--投稿されたメッセージを表示 -->
     <hr>
     <section>
     <?php if( !empty($message_array) ): ?>
